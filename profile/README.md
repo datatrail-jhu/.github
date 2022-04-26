@@ -23,3 +23,6 @@ Find out more about DataTrail at [datatrail.org](https://www.datatrail.org/)
 
 [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScmRetpxZbMg4_JikgU-6DQlCCgmy2R8MAtEYoSN6n8CYGs8w/viewform) to contact us! 
 Or if you are comfortable with the GitHub workflow, feel free to file a GitHub issue on the respective course you have ideas about and tag on of the DataTrail team members
+
+
+\*Note that Datatrail was formerly called Chromebook Data Science (CBDS or CDS) and now has been renamed DataTrail.
