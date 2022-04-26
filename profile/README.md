@@ -1,5 +1,7 @@
 # DataTrail 
 
+<img src="https://user-images.githubusercontent.com/23458084/165346242-0fb77390-caf0-44d0-a42c-ae606622ff97.png" width = 400>
+
 [DataTrail](https://www.datatrail.org/) is a no-cost, paid 14-week educational initiative for young-adult, high school and GED-graduates. DataTrail aims to equip members of underserved communities with the necessary skills and support required to work in the booming field of data science. 
 
 DataTrail is a fresh take on workforce development that focuses on training both Black, Indigenous, and other people of color (BIPOC) interested in the data science industry and their potential employers.
